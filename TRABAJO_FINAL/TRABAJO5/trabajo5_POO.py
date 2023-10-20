@@ -3,7 +3,7 @@ TRABAJO 5: Generador y lector de QR
 
 DESARROLLO:
 
-1. UTILIZAR LAS LIBRERIAS: qrcode,cv2
+1. UTILIZAR LAS LIBRERIAS: qrcode,cv2(opencv-python)
 2. DECLARAR UNA CLASE, por ejemplo MyApp()
 3. DEFINIR LOS METODOS:
     - Ingresar o declarar el mensaje data.

@@ -3,7 +3,7 @@ TRABAJO 3: Grabado de pantalla con python
 
 DESARROLLO:
 
-1. UTILIZAR LAS LIBRERIAS: pyautogui,cv2,numpy
+1. UTILIZAR LAS LIBRERIAS: pyautogui,cv2(opencv-python),numpy
 2. DECLARAR UNA CLASE, por ejemplo MyApp()
 3. DEFINIR LOS METODOS:
     - Declarar e ingresar el Nombre de video, resolucion,codificacion de video,tasa de frame.
