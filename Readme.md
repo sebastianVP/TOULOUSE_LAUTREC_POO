@@ -8,6 +8,7 @@ Material de clases y tareas del curso POO con Python.
 - Clase 4
 
 NOTA: Para instalar las librerias utilizar el comando pip, por ejemplo:
+
 Libreria numpy:
 $pip install numpy
 
