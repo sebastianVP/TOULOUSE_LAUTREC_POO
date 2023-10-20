@@ -7,9 +7,9 @@ DESARROLLO:
 2. DECLARAR UNA CLASE, por ejemplo MyApp()
 3. DEFINIR LOS METODOS:
     - Ingresa Ciudad para consultar informacion de clima.
+    - Mostrar informacion nombre de Ciudadclima.
     - Mostrar informacion de clima.
-    - Mostrar informacion de.
-    - 
+    - Mostrar informacion humedad, presion y descripcion.
 '''
 #DECLARACION DE LIBERIAS
 import requests
